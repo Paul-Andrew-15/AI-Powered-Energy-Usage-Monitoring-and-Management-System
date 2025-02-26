@@ -420,8 +420,10 @@ AI-Powered Energy Usage Monitoring and Management System
 
 ## Result:
 
-1.Training Performance: Mean Squared Error (MSE) of 2.3917 and R² score of 0.9999979, indicating an excellent fit on the training data.1.
+1.Training Performance: Mean Squared Error (MSE) of 2.3917 and R² score of 0.9999979, indicating an excellent fit on the training data.
+
 2.Testing Performance: Mean Squared Error (MSE) of 30.9670 and R² score of 0.9999734, demonstrating strong generalization on unseen data.
+
 3.Recommendation System Performance: Our recommendation system performs well, providing accurate and efficient suggestions for optimizing electricity usage based on the predicted consumption patterns.
 
 ## Articles published / References:
