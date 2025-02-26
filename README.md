@@ -24,6 +24,9 @@ This project is an AI-powered system designed to monitor and manage energy usage
 4. Run the Web Interface
 5. Input Data & Get Predictions
 
+## System Architecture
+![](./55.jpeg)
+
 ## Program:
 ```python
 # Import necessary libraries
@@ -421,7 +424,8 @@ AI-Powered Energy Usage Monitoring and Management System
 2.Testing Performance: Mean Squared Error (MSE) of 30.9670 and R² score of 0.9999734, demonstrating strong generalization on unseen data.
 3.Recommendation System Performance: Our recommendation system performs well, providing accurate and efficient suggestions for optimizing electricity usage based on the predicted consumption patterns.
 
-##Articles published / References:
+## Articles published / References:
 1.Ramya, G., & Ramaprabha, R. (2024). Residential energy management system (REMS) using machine learning. In Advances in Computers (Vol. 132, pp. 33-47). Elsevier.
+
 2.Devi, M., Muralidharan, S., Elakiya, R., & Monica, M. (2023). Design and Implementation of a Smart Home Energy Management System Using IoT and Machine Learning. In E3S Web of Conferences (Vol. 387, p. 04005). EDP Sciences.
 
