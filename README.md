@@ -25,7 +25,7 @@ This project is an AI-powered system designed to monitor and manage energy usage
 5. Input Data & Get Predictions
 
 ## System Architecture
-![](./55.jpeg)
+![](./55.jpg)
 
 ## Program:
 ```python
